@@ -17,3 +17,9 @@
 .header a:hover{
     color: orange;
 }
+.log-out{
+    margin-left: 36px;
+    background: transparent;
+    border: 0px;
+    font-size: 17px;
+}
