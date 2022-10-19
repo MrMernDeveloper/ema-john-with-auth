@@ -19,8 +19,21 @@ userContext provides AuthContext
 6. get form data
 7. getAuth in the UserContext
 
+*/
 
+/* 
+FIREBASE HOSTING
+.................... 
+//One time for each computer
+1. npm install -g firebase-tools
+2. firebase login
 
+// for each projects one time
+3. firebase init
+make sure: for public directory: you select: build
+single page application: y
 
-
+//for every deploy:
+1. npm run build
+2.firebase deploy
 */
